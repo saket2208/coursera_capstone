@@ -1,0 +1,722 @@
+borough,neighborhood,postal_code
+,,
+"Not assigned
+","Not assigned
+","M1A
+"
+"Not assigned
+","Not assigned
+","M2A
+"
+"North York
+","Parkwoods
+","M3A
+"
+"North York
+","Victoria Village
+","M4A
+"
+"Downtown Toronto
+","Regent Park, Harbourfront
+","M5A
+"
+"North York
+","Lawrence Manor, Lawrence Heights
+","M6A
+"
+"Downtown Toronto
+","Queen's Park, Ontario Provincial Government
+","M7A
+"
+"Not assigned
+","Not assigned
+","M8A
+"
+"Etobicoke
+","Islington Avenue, Humber Valley Village
+","M9A
+"
+"Scarborough
+","Malvern, Rouge
+","M1B
+"
+"Not assigned
+","Not assigned
+","M2B
+"
+"North York
+","Don Mills
+","M3B
+"
+"East York
+","Parkview Hill, Woodbine Gardens
+","M4B
+"
+"Downtown Toronto
+","Garden District, Ryerson
+","M5B
+"
+"North York
+","Glencairn
+","M6B
+"
+"Not assigned
+","Not assigned
+","M7B
+"
+"Not assigned
+","Not assigned
+","M8B
+"
+"Etobicoke
+","West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale
+","M9B
+"
+"Scarborough
+","Rouge Hill, Port Union, Highland Creek
+","M1C
+"
+"Not assigned
+","Not assigned
+","M2C
+"
+"North York
+","Don Mills
+","M3C
+"
+"East York
+","Woodbine Heights
+","M4C
+"
+"Downtown Toronto
+","St. James Town
+","M5C
+"
+"York
+","Humewood-Cedarvale
+","M6C
+"
+"Not assigned
+","Not assigned
+","M7C
+"
+"Not assigned
+","Not assigned
+","M8C
+"
+"Etobicoke
+","Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood
+","M9C
+"
+"Scarborough
+","Guildwood, Morningside, West Hill
+","M1E
+"
+"Not assigned
+","Not assigned
+","M2E
+"
+"Not assigned
+","Not assigned
+","M3E
+"
+"East Toronto
+","The Beaches
+","M4E
+"
+"Downtown Toronto
+","Berczy Park
+","M5E
+"
+"York
+","Caledonia-Fairbanks
+","M6E
+"
+"Not assigned
+","Not assigned
+","M7E
+"
+"Not assigned
+","Not assigned
+","M8E
+"
+"Not assigned
+","Not assigned
+","M9E
+"
+"Scarborough
+","Woburn
+","M1G
+"
+"Not assigned
+","Not assigned
+","M2G
+"
+"Not assigned
+","Not assigned
+","M3G
+"
+"East York
+","Leaside
+","M4G
+"
+"Downtown Toronto
+","Central Bay Street
+","M5G
+"
+"Downtown Toronto
+","Christie
+","M6G
+"
+"Not assigned
+","Not assigned
+","M7G
+"
+"Not assigned
+","Not assigned
+","M8G
+"
+"Not assigned
+","Not assigned
+","M9G
+"
+"Scarborough
+","Cedarbrae
+","M1H
+"
+"North York
+","Hillcrest Village
+","M2H
+"
+"North York
+","Bathurst Manor, Wilson Heights, Downsview North
+","M3H
+"
+"East York
+","Thorncliffe Park
+","M4H
+"
+"Downtown Toronto
+","Richmond, Adelaide, King
+","M5H
+"
+"West Toronto
+","Dufferin, Dovercourt Village
+","M6H
+"
+"Not assigned
+","Not assigned
+","M7H
+"
+"Not assigned
+","Not assigned
+","M8H
+"
+"Not assigned
+","Not assigned
+","M9H
+"
+"Scarborough
+","Scarborough Village
+","M1J
+"
+"North York
+","Fairview, Henry Farm, Oriole
+","M2J
+"
+"North York
+","Northwood Park, York University
+","M3J
+"
+"East York
+","East Toronto, Broadview North (Old East York)
+","M4J
+"
+"Downtown Toronto
+","Harbourfront East, Union Station, Toronto Islands
+","M5J
+"
+"West Toronto
+","Little Portugal, Trinity
+","M6J
+"
+"Not assigned
+","Not assigned
+","M7J
+"
+"Not assigned
+","Not assigned
+","M8J
+"
+"Not assigned
+","Not assigned
+","M9J
+"
+"Scarborough
+","Kennedy Park, Ionview, East Birchmount Park
+","M1K
+"
+"North York
+","Bayview Village
+","M2K
+"
+"North York
+","Downsview
+","M3K
+"
+"East Toronto
+","The Danforth West, Riverdale
+","M4K
+"
+"Downtown Toronto
+","Toronto Dominion Centre, Design Exchange
+","M5K
+"
+"West Toronto
+","Brockton, Parkdale Village, Exhibition Place
+","M6K
+"
+"Not assigned
+","Not assigned
+","M7K
+"
+"Not assigned
+","Not assigned
+","M8K
+"
+"Not assigned
+","Not assigned
+","M9K
+"
+"Scarborough
+","Golden Mile, Clairlea, Oakridge
+","M1L
+"
+"North York
+","York Mills, Silver Hills
+","M2L
+"
+"North York
+","Downsview
+","M3L
+"
+"East Toronto
+","India Bazaar, The Beaches West
+","M4L
+"
+"Downtown Toronto
+","Commerce Court, Victoria Hotel
+","M5L
+"
+"North York
+","North Park, Maple Leaf Park, Upwood Park
+","M6L
+"
+"Not assigned
+","Not assigned
+","M7L
+"
+"Not assigned
+","Not assigned
+","M8L
+"
+"North York
+","Humber Summit
+","M9L
+"
+"Scarborough
+","Cliffside, Cliffcrest, Scarborough Village West
+","M1M
+"
+"North York
+","Willowdale, Newtonbrook
+","M2M
+"
+"North York
+","Downsview
+","M3M
+"
+"East Toronto
+","Studio District
+","M4M
+"
+"North York
+","Bedford Park, Lawrence Manor East
+","M5M
+"
+"York
+","Del Ray, Mount Dennis, Keelsdale and Silverthorn
+","M6M
+"
+"Not assigned
+","Not assigned
+","M7M
+"
+"Not assigned
+","Not assigned
+","M8M
+"
+"North York
+","Humberlea, Emery
+","M9M
+"
+"Scarborough
+","Birch Cliff, Cliffside West
+","M1N
+"
+"North York
+","Willowdale, Willowdale East
+","M2N
+"
+"North York
+","Downsview
+","M3N
+"
+"Central Toronto
+","Lawrence Park
+","M4N
+"
+"Central Toronto
+","Roselawn
+","M5N
+"
+"York
+","Runnymede, The Junction North
+","M6N
+"
+"Not assigned
+","Not assigned
+","M7N
+"
+"Not assigned
+","Not assigned
+","M8N
+"
+"York
+","Weston
+","M9N
+"
+"Scarborough
+","Dorset Park, Wexford Heights, Scarborough Town Centre
+","M1P
+"
+"North York
+","York Mills West
+","M2P
+"
+"Not assigned
+","Not assigned
+","M3P
+"
+"Central Toronto
+","Davisville North
+","M4P
+"
+"Central Toronto
+","Forest Hill North & West, Forest Hill Road Park
+","M5P
+"
+"West Toronto
+","High Park, The Junction South
+","M6P
+"
+"Not assigned
+","Not assigned
+","M7P
+"
+"Not assigned
+","Not assigned
+","M8P
+"
+"Etobicoke
+","Westmount
+","M9P
+"
+"Scarborough
+","Wexford, Maryvale
+","M1R
+"
+"North York
+","Willowdale, Willowdale West
+","M2R
+"
+"Not assigned
+","Not assigned
+","M3R
+"
+"Central Toronto
+","North Toronto West,  Lawrence Park
+","M4R
+"
+"Central Toronto
+","The Annex, North Midtown, Yorkville
+","M5R
+"
+"West Toronto
+","Parkdale, Roncesvalles
+","M6R
+"
+"Mississauga
+","Canada Post Gateway Processing Centre
+","M7R
+"
+"Not assigned
+","Not assigned
+","M8R
+"
+"Etobicoke
+","Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens
+","M9R
+"
+"Scarborough
+","Agincourt
+","M1S
+"
+"Not assigned
+","Not assigned
+","M2S
+"
+"Not assigned
+","Not assigned
+","M3S
+"
+"Central Toronto
+","Davisville
+","M4S
+"
+"Downtown Toronto
+","University of Toronto, Harbord
+","M5S
+"
+"West Toronto
+","Runnymede, Swansea
+","M6S
+"
+"Not assigned
+","Not assigned
+","M7S
+"
+"Not assigned
+","Not assigned
+","M8S
+"
+"Not assigned
+","Not assigned
+","M9S
+"
+"Scarborough
+","Clarks Corners, Tam O'Shanter, Sullivan
+","M1T
+"
+"Not assigned
+","Not assigned
+","M2T
+"
+"Not assigned
+","Not assigned
+","M3T
+"
+"Central Toronto
+","Moore Park, Summerhill East
+","M4T
+"
+"Downtown Toronto
+","Kensington Market, Chinatown, Grange Park
+","M5T
+"
+"Not assigned
+","Not assigned
+","M6T
+"
+"Not assigned
+","Not assigned
+","M7T
+"
+"Not assigned
+","Not assigned
+","M8T
+"
+"Not assigned
+","Not assigned
+","M9T
+"
+"Scarborough
+","Milliken, Agincourt North, Steeles East, L'Amoreaux East
+","M1V
+"
+"Not assigned
+","Not assigned
+","M2V
+"
+"Not assigned
+","Not assigned
+","M3V
+"
+"Central Toronto
+","Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park
+","M4V
+"
+"Downtown Toronto
+","CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport
+","M5V
+"
+"Not assigned
+","Not assigned
+","M6V
+"
+"Not assigned
+","Not assigned
+","M7V
+"
+"Etobicoke
+","New Toronto, Mimico South, Humber Bay Shores
+","M8V
+"
+"Etobicoke
+","South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens
+","M9V
+"
+"Scarborough
+","Steeles West, L'Amoreaux West
+","M1W
+"
+"Not assigned
+","Not assigned
+","M2W
+"
+"Not assigned
+","Not assigned
+","M3W
+"
+"Downtown Toronto
+","Rosedale
+","M4W
+"
+"Downtown Toronto
+","Stn A PO Boxes
+","M5W
+"
+"Not assigned
+","Not assigned
+","M6W
+"
+"Not assigned
+","Not assigned
+","M7W
+"
+"Etobicoke
+","Alderwood, Long Branch
+","M8W
+"
+"Etobicoke
+","Northwest, West Humber - Clairville
+","M9W
+"
+"Scarborough
+","Upper Rouge
+","M1X
+"
+"Not assigned
+","Not assigned
+","M2X
+"
+"Not assigned
+","Not assigned
+","M3X
+"
+"Downtown Toronto
+","St. James Town, Cabbagetown
+","M4X
+"
+"Downtown Toronto
+","First Canadian Place, Underground city
+","M5X
+"
+"Not assigned
+","Not assigned
+","M6X
+"
+"Not assigned
+","Not assigned
+","M7X
+"
+"Etobicoke
+","The Kingsway, Montgomery Road, Old Mill North
+","M8X
+"
+"Not assigned
+","Not assigned
+","M9X
+"
+"Not assigned
+","Not assigned
+","M1Y
+"
+"Not assigned
+","Not assigned
+","M2Y
+"
+"Not assigned
+","Not assigned
+","M3Y
+"
+"Downtown Toronto
+","Church and Wellesley
+","M4Y
+"
+"Not assigned
+","Not assigned
+","M5Y
+"
+"Not assigned
+","Not assigned
+","M6Y
+"
+"East Toronto
+","Business reply mail Processing Centre, South Central Letter Processing Plant Toronto
+","M7Y
+"
+"Etobicoke
+","Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East
+","M8Y
+"
+"Not assigned
+","Not assigned
+","M9Y
+"
+"Not assigned
+","Not assigned
+","M1Z
+"
+"Not assigned
+","Not assigned
+","M2Z
+"
+"Not assigned
+","Not assigned
+","M3Z
+"
+"Not assigned
+","Not assigned
+","M4Z
+"
+"Not assigned
+","Not assigned
+","M5Z
+"
+"Not assigned
+","Not assigned
+","M6Z
+"
+"Not assigned
+","Not assigned
+","M7Z
+"
+"Etobicoke
+","Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West
+","M8Z
+"
+"Not assigned
+","Not assigned
+","M9Z
+"
